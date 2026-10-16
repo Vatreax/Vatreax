@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael, also know as Vatreax</h1>
 <h3 align="center">A begginer developer from Brazil</h3>
 
-- 🎒 I’m currently Studying on [Senac Hub Academy](https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy/trk/public_post_reshare-text)
-
-- 🌱 I’m currently learning **HTML & CSS**
+- 🎒 I am currently a scholarship recipient at [Senac Hub Academy](https://ww3.ms.senac.br/Escolas/Campo-Grande/Hub-Academy/trk/public_post_reshare-text)
 
 - 👯 I’m looking to collaborate with **friends and colleagues in the study of programming languages**
 
